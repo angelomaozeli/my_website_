@@ -1,0 +1,35 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-09-30"
+description: Ey Experience # the title that will show up once someone gets to this page
+draft: false
+image: ey.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: ey # slug is the shorthand URL address... no spaces plz
+title: Pre-EY UKI Assurance Auditor
+---
+
+Prior to joining LBS, I worked as an Assurance Associate at EY Birmingham, where I got the opportunity to serve 11 different annual audit engagements from 6 different industries, including the Dignity.
+
+```{r}
+
+
+knitr::include_graphics("/img/ey2.jpg",error =FALSE)
+
+```
+
+At EY, I got to
+
+·	Engaged in the annual audit of 11 companies; Conducted financial report audit and internal control assessment procedures for clients from 6 different industries, including transport, technology, manufacturing, professional services, funeral services etc.
+
+·	Managed audit procedures and analytical reviews of 5 core accounts of London-listed Dignity Plc’s annual audit engagements (including group and all subsidiaries); Identified misstatements which resulted in adjustments of £1.3m in the annual report
+
+·	Hosted 6 one-to-one client warehouse visits and inventory audit meetings on behalf of E&Y; Presented audit guidance briefings to warehouse managers on site for 6 clients; Worked with client Financial Controllers, performed 6 annual inventory system audits
+
+·	Organised 2 virtual management enquiry meetings with client board members and 5 meetings with overseas supporting offices; Produced audit planning procedures, prepared planning analytical review reports for 3 clients from different industries
+
+·	Nominated as only first-year representative present at all-people meeting with partners of EY Assurance (with 200+ audience)
+

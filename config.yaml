@@ -1,0 +1,116 @@
+baseURL: https://maozeliportfolioca09.netlify.app/
+languageCode: en-us
+title: FORTY
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      LBS MFA2022 | QUALIFIED ACCOUNTANT | FINANCE ENTHUSIASTIC | 
+      PRE- AUDITOR                   
+    title: Hi, my name is Maoze Li. Welcome to my personal portfolio website.
+  blog: {}
+  contact:
+    address:
+      - city: London, NW1 6HD
+        country: UK
+        street: Balcombe Street
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: mli.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (044) 074-968-49107 x1234
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: London Business School MFA2022 CA09 AUT21 Porfolio Website
+    enable: yes
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
+    social:
+      - icon: fa-twitter
+        label: Twitter
+        url: https://www.linkedin.com/in/angelo-maoze-l-164192177/
+      - icon: fa-facebook
+        label: Facebook
+        url: https://www.facebook.com/profile.php?id=100074191681300
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com/ange.m.li/
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/angelomaozeli
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/angelo-maoze-l-164192177/
+  image: ''
+  name: Maoze Li
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: accounting.PNG
+        subtitle: ACCA affiliate member, ICAS TC member
+        title: Accounting Professional
+        url:  blogs/acc
+      - image: finance.jpg
+        subtitle: Financial Modelling, Asset Management, Corporate Finance
+        title: Finance Enthusiastic
+        url: blogs/risk_return
+      - image: LBS.jpg
+        subtitle: Postgraduate Studies in Financial Analysis
+        title: London Business School
+        url: blogs/brexit
+      - image: EY.jpg
+        subtitle: Pre Full-time Assurance Experience at EY
+        title: Pre-EY
+        url: blogs/ey
+      - image: international.jpg
+        subtitle: Gained internship experiences in multiple countries across the world
+        title: International Business Experiences
+        url: blogs/inter
+      - image: volunteer.jpg
+        subtitle: Passionate about giving back to the community
+        title: Volunteer
+        url: blogs/vol
+  two:
+    buttonText: Maoze's Blogs
+    enable: yes
+    subtitle: "Apart from the academic achievements and the spare-time hobbies, I am also actively seeking career progressing opportunities in Financial Industry.
+      \r\n    As a post-graduate perultimate student at LBS, I am particularly interested in the M&A advisory roles and investment banking roles. \r\n   I also 
+      hold strong interests in the strategy consulting for financial institutions, in particular PE industry. \r\n I am more than glad to be reached out if you have similar interests.\r\n    Looking forward
+      to receiving your messages."
+    title: Business Interests
+    url: blogs
